@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 
 ############ API Key #############
-api_key=("AIzaSyDW4RG9mQM-2chVL0UJhuhCGE3VmlRuq7A")
+api_key=(" Enter your API key")
 genai.configure(api_key=api_key)
 
 ############## choose Heading ###############3
