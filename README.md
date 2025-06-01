@@ -32,30 +32,25 @@ This project is a simple Streamlit web application that allows users to upload a
 - The response is displayed on the Streamlit web page below the image.
 - The user can see both the image and the response in one place.
 
-## Technologies Used
+# Technologies Used
 - **Streamlit** - For building the web UI.
 - **Google Generative AI (Gemini)** - For image understanding and text response.
 - **PIL (Pillow)** - For image processing.
 
 
-### Set Up API Key  
+# Set Up API Key  
 You need a **Google Gemini API Key** to use this application. Replace the `api_key` variable in `app.py` with your own API key.
 
-### Run the Application
+# Run the Application
 ```bash
 streamlit run app.py
 ```
 
-## Usage
-1. Upload an image.
-2. Enter a text prompt to analyze the image.
-3. Click the **"Get RESPONSE"** button to receive AI-generated insights.
-
-## License
+# License
 This project is for educational purposes only.
 
 ---
 
-### **Notes**
+# **Notes**
 - Ensure your API key is **valid and active**.
 - The Gemini model supports multimodal inputs, so make sure you pass **both** the image and the text correctly.
