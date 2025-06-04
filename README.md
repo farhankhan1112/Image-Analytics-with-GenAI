@@ -1,5 +1,7 @@
 # Image-Analytics-with-GenAI
-This project is a simple Streamlit web application that allows users to upload an image and ask a question about it using Google Gemini AI.
+- This project is a simple Streamlit web application that allows users to upload an image and ask a question about it using Google Gemini 
+ AI, a powerful Large Language Model (LLM). The Gemini 1.5 Flash model processes both text prompts and image inputs (multimodal) to 
+ generate intelligent and context-aware responses. This makes the application an example of GenAI + LLM-powered image analytics.
 
 # Features
 - Upload an image (PNG, JPG, JPEG).
@@ -32,10 +34,16 @@ This project is a simple Streamlit web application that allows users to upload a
 - The response is displayed on the Streamlit web page below the image.
 - The user can see both the image and the response in one place.
 
-# Technologies Used
-- **Streamlit** - For building the web UI.
-- **Google Generative AI (Gemini)** - For image understanding and text response.
-- **PIL (Pillow)** - For image processing.
+#🛠️ Technologies Used
+- Python – For backend logic and API integration
+
+- Streamlit – To create a simple and interactive web app UI
+
+- Google Generative AI (Gemini API) – A Large Language Model (LLM) used for multimodal content generation (text + image)
+
+- Pillow (PIL) – For handling image input and processing
+
+- Gemini 1.5 Flash – A multimodal LLM from Google, used to generate responses based on text and images
 
 
 # Set Up API Key  
