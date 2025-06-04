@@ -34,7 +34,7 @@
 - The response is displayed on the Streamlit web page below the image.
 - The user can see both the image and the response in one place.
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 - Python – For backend logic and API integration
 
 - Streamlit – To create a simple and interactive web app UI
