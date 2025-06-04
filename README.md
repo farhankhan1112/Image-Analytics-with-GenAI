@@ -1,6 +1,6 @@
 # Image-Analytics-with-GenAI
-- This project is a simple Streamlit web application that allows users to upload an image and ask a question about it using Google Gemini 
- AI, a powerful Large Language Model (LLM). The Gemini 1.5 Flash model processes both text prompts and image inputs (multimodal) to 
+- This project is a simple Streamlit web application that allows users to upload an image and ask a question about it using **Google Gemini 
+ AI**, a powerful **Large Language Model (LLM)**. The Gemini 1.5 Flash model processes both text prompts and image inputs (multimodal) to 
  generate intelligent and context-aware responses. This makes the application an example of GenAI + LLM-powered image analytics.
 
 # Features
